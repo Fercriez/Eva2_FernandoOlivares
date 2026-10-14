@@ -1,4 +1,4 @@
-# Administración de arriendos de equipos
+# Eva2_FernandoOlivares
 
 Proyecto de práctica para TI3041: registra equipos y sus arriendos y los
 administra desde Django Admin.
